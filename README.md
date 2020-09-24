@@ -22,6 +22,7 @@ Lastly, calculate the inches per pixel constant measurement using the equation b
 Make sure to have python 3 installed (haven't tested with python2, it not may work), and follow installation instructions for [pytesseract](https://github.com/madmaze/pytesseract) beforehand.
 
 ```bash
+python -m pip install --upgrade pip
 python -m pip install pytesseract Pillow numpy
 ```
 
