@@ -8,7 +8,7 @@ This is a repository showcasing the demo code to automate the grid drawing proce
 
 To use any of the functions in the repository you'd need to first measure the floor plan. Since this one of the most important parts of the process (We will use the first couple measurements to extrapolate information about the whole floor). 
 
-We recommend using as many data points as possible. Even with two data (the amount used in the demo), it was still very accurate. Currently, the code is setup for the Colden Hall 3rd floor measurements week took below.
+We recommend using as many data points as possible. Even with two data (the amount used in the demo), it was still very accurate. Currently, the code is setup for the Colden Hall 3rd floor measurements we took below.
 
 After taking measurements of walls, find how many pixels each wall is. Finding out how many each feet relates to each wall is a crucial part of this process.
 
